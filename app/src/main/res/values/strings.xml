@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Climatica</string>
+    <string name="temp">130C</string>
+    <string name="fetching_location">Fetching Location</string>
+    <string name="temperature_icon">Temperature Icon</string>
+    <string name="city_name">City Name</string>
+    <string name="input_city_name">Input City Name</string>
+    <string name="city_name_act2">City Name</string>
+    <string name="back_button">Back Button</string>
+</resources>
